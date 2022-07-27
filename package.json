@@ -1,0 +1,12 @@
+{
+  "name": "com.mauro1855.ListDemo",
+  "description": "ListDemo",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.8.1",
+    "@lightningjs/ui": "^1.2.0",
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
